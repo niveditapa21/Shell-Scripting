@@ -1,1 +1,4 @@
 #!/bin/executable — where executable represents the path/name of the interpreter, such as bash, sh, dash, or ksh, which execute the scripts
+
+
+#!/bin/sh when was written ,it was directed to bash via linking concept, but now some OS use dash by default, so bash would not work where dash is by default.
