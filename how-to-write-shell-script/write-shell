@@ -1,2 +1,2 @@
-#!/bin/executable (executable-->  bash/dash/ksh/sh)
+#!/bin/executable (executable-->  bash/dash/ksh/sh----> is the shell/interpreter that should execute the script)
 
