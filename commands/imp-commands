@@ -1,1 +1,25 @@
 echo --> used to print text, variables, or command outputs directly to the terminal screen.
+
+
+`:wq!` is a **Vim command** used to save and exit.
+
+Breakdown:
+
+* `:` → tells Vim you want to enter a command
+* `w` → **write** (save the file)
+* `q` → **quit** Vim
+* `!` → **force** the operation if necessary
+
+
+### Common Vim commands
+
+| Command | Meaning             |
+| ------- | ------------------- |
+| `:w`    | Save                |
+| `:q`    | Quit                |
+| `:wq`   | Save and quit       |
+| `:q!`   | Quit without saving |
+| `:wq!`  | Force save and quit |
+
+
+
