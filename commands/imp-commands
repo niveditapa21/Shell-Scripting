@@ -1,7 +1,7 @@
-echo --> used to print text, variables, or command outputs directly to the terminal screen.
+a)  echo --> used to print text, variables, or command outputs directly to the terminal screen.
 
 
-`:wq!` is a **Vim command** used to save and exit.
+b) :wq!` is a **Vim command** used to save and exit.
 
 Breakdown:
 
@@ -22,4 +22,4 @@ Breakdown:
 | `:wq!`  | Force save and quit |
 
 
-
+c) cat --> print the content of file
