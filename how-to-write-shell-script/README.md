@@ -1,1 +1,1 @@
-This is the README file.
+This will tell how to write shell script
