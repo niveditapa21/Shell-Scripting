@@ -1,2 +1,1 @@
-#!/bin/executable (executable-->  bash/dash/ksh/sh----> is the shell/interpreter that should execute the script)
-
+#!/bin/executable — where executable represents the path/name of the interpreter, such as bash, sh, dash, or ksh, which execute the scripts
