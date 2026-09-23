@@ -1,0 +1,21 @@
+Shell:----> 
+The shell is a command-line interpreter that acts as a bridge between the user and the kernel. 
+It receives commands from the terminal, interprets them and translates them into instructions that the operating system can execute. 
+Without the shell, the system cannot understand human-readable commands.
+
+Interprets and validates user commands
+Converts commands into system calls
+Executes built-in and external programs
+Displays output or error messages
+Provides scripting capabilities
+
+Kernel:--->
+The kernel is the core component of the operating system. 
+It directly interacts with the computer hardware and manages all critical system resources. 
+While the shell interprets user commands, the kernel is responsible for actually executing them at the hardware level.
+
+Process Management
+Memory Management
+File System Management
+Device Management
+Input/Output (I/O) Management

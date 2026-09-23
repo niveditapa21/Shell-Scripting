@@ -1,0 +1,8 @@
+Shell scripting:--->
+allows users to automate repetitive tasks by combining multiple commands into a single file. 
+Instead of typing each command manually, a shell script executes a sequence of commands automatically, saving time and reducing errors. 
+This is particularly useful in system administration, DevOps and repetitive workflow management.
+
+Shell Script:---->
+A shell script is essentially a text file containing a series of commands that the shell can interpret and execute.
+These files typically have a .sh extension, such as:    myscript.sh
