@@ -23,3 +23,5 @@ Breakdown:
 
 
 c) cat --> print the content of file
+
+d) set -x like turning on "show your work" mode for a script.
