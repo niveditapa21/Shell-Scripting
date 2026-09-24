@@ -1,0 +1,7 @@
+:n ----> 	go to next file
+:N ---->	go to previous file
+:args -->	list all files loaded
+:b2 or :buffer 2 --->	switch to buffer 2
+:ls ----------------->	list open buffers
+
+with touch command, one can create many files at once that means useful in automaton. But, by vim command one can create as many files but one file will open at once.
