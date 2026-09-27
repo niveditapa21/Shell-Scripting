@@ -1,0 +1,26 @@
+ if Syntax:---->
+
+ if [ condition ]; then
+    # Commands to execute if true
+fi
+
+
+
+
+if...else Syntax:---->
+if [ condition ]; then
+    # Commands if true
+else
+    # Commands if false
+fi
+
+
+
+if...elif...else Syntax:---->
+if [ condition1 ]; then
+    # Commands if condition1 is true
+elif [ condition2 ]; then
+    # Commands if condition2 is true
+else
+    # Commands if none of the above match
+fi
