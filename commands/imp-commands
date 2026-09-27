@@ -29,3 +29,5 @@ d) set -x like turning on "show your work" mode for a script.
 e) set -e ---> exit the script when there is an error 
 
 f) set -o --> pipefail
+
+ex:  sssfffhhh  | echo | ffggghhh  ---->  sssffhhhh & ffggghhh is not command ,so set -o will give error on terminal.
