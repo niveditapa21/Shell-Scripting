@@ -1,6 +1,7 @@
 Looping Statements | Shell Script:
 
-1. while statement in Shell Script in Linux ---> It checks the condition. If it's TRUE, it runs the code, then checks again. It repeats until the condition is FALSE.
+1. while statement in Shell Script in Linux ---> It checks the condition. If it's TRUE, it runs the code, then checks again. 
+                                                 It repeats until the condition is FALSE.
 
 #/bin/bash
 while <condition>
