@@ -1,0 +1,66 @@
+Looping Statements | Shell Script:
+
+1. while statement in Shell Script in Linux ---> It checks the condition. If it's TRUE, it runs the code, then checks again. 
+                                                 It repeats until the condition is FALSE.
+
+#/bin/bash
+while <condition>
+do
+    <command 1>
+    <command 2>
+    <etc>
+done
+
+2. for statement in Shell Script in Linux  ---->  The for loop operates on lists of items. It repeats a set of commands for every item in a list. 
+
+#/bin/bash
+for <var> in <value1 value2 ... valuen>
+do
+    <command 1>
+    <command 2>
+    <etc>
+done
+
+Statement 1: Implementation of `for` Loop with `break` statement in Shell Script.
+
+#/bin/bash
+#Start of for loop
+for a in 1 2 3 4 5 6 7 8 9 10
+do
+    # if a is equal to 5 break the loop
+    if [ $a == 5 ]
+    then
+        break
+    fi
+    # Print the value
+    echo "Iteration no $a"
+done
+
+Statement 2: Implementation of `for` Loop with `continue` statement in Shell Script.
+
+#/bin/bash
+for a in 1 2 3 4 5 6 7 8 9 10
+do
+    # if a = 5 then continue the loop and 
+    # don't move to line 8
+    if [ $a == 5 ]
+    then 
+        continue
+    fi
+    echo "Iteration no $a"
+done
+
+3. until statement in Shell Script in Linux---->  The until loop is executed as many times as the condition/command evaluates to false. 
+                                                   The loop terminates when the condition/command becomes true. 
+
+#/bin/bash
+until <condition>
+do
+    <command 1>
+    <command 2>
+    <etc>
+done
+
+
+
+
