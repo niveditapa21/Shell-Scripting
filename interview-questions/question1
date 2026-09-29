@@ -1,0 +1,5 @@
+Lists the commonly used Shell commands
+write a simple shell script to list all the processes --->  ps -ef | awk -F" " '{print $2}'
+write a script to print only errors from a remote log  ---> curl google.com | grep "HREF"
+-------> curl command can be used to get the information , then we can use grep to search particular thing.
+write shell script to print number 3 and 5 , but not by 15
